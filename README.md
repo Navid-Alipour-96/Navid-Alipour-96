@@ -18,7 +18,7 @@ Driven software engineer with 3+ years of experience building scalable web appli
 * **Web & Front-End:** Blazor, HTML5, CSS3, Bootstrap, RESTful APIs
 * **Algorithmic Trading:** Backtrader, Pandas, NumPy, MetaTrader4/5
 * **ERP & Odoo:** Module development, custom reports, workflows, data migrations
-* **Tools & Platforms:** Git, GitHub, Docker, RabbitMQ, Azure, AWS, Jira, Confluence
+* **Tools & Platforms:** Git, GitHub, Docker, RabbitMQ, Kafka
 
 ---
 
