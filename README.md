@@ -39,9 +39,9 @@ Driven software engineer with 3+ years of experience building scalable web appli
 
 ### 📫 Connect with Me
 
-* GitHub: [github.com/Navid-Alipour-96]
-* LinkedIn: [www.linkedin.com/in/navid-alipour-dev]
-* Email: [john.doe@example.com](mailto:navid.alipour96@gmail.com)
+* GitHub: [github.com/Navid-Alipour-96](www.github.com/Navid-Alipour-96)
+* LinkedIn: [linkedin.com/in/navid-alipour-dev](www.linkedin.com/in/navid-alipour-dev)
+* Email: [navid.alipour96@gmail.com](mailto:navid.alipour96@gmail.com)
 
 <!--
 **Navid-Alipour-96/Navid-Alipour-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
