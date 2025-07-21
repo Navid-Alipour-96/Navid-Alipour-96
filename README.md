@@ -40,8 +40,8 @@ Driven software engineer with 3+ years of experience building scalable web appli
 ### 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Navid--Alipour--96-181717?style=flat&logo=github)](https://github.com/Navid-Alipour-96)
-* LinkedIn: [linkedin.com/in/navid-alipour-dev](goto:www.linkedin.com/in/navid-alipour-dev)
-* Email: [navid.alipour96@gmail.com](mailto:navid.alipour96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-navid--alipour--dev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-alipour-dev)
+[![Email](https://img.shields.io/badge/Email-navid.alipour96%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:navid.alipour96@gmail.com)
 
 <!--
 **Navid-Alipour-96/Navid-Alipour-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
