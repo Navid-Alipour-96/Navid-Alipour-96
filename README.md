@@ -39,7 +39,7 @@ Driven software engineer with 3+ years of experience building scalable web appli
 
 ### 📫 Connect with Me
 
-* GitHub: [github.com/Navid-Alipour-96](goto:www.github.com/Navid-Alipour-96)
+[![GitHub](https://img.shields.io/badge/GitHub-Navid--Alipour--96-181717?style=flat&logo=github)](https://github.com/Navid-Alipour-96)
 * LinkedIn: [linkedin.com/in/navid-alipour-dev](goto:www.linkedin.com/in/navid-alipour-dev)
 * Email: [navid.alipour96@gmail.com](mailto:navid.alipour96@gmail.com)
 
