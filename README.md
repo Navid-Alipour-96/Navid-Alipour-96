@@ -8,7 +8,7 @@
 
 ### 📄 Summary
 
-Driven software engineer with 3+ years of experience building scalable web applications, trading bots, and enterprise ERP modules. Proven track record of delivering full-stack solutions, integrating complex services, and optimizing performance in fast-paced environments.
+Driven software developer with 3+ years of experience building scalable web applications, trading bots, and enterprise ERP modules. Proven track record of delivering full-stack solutions, integrating complex services, and optimizing performance in fast-paced environments.
 
 ---
 
